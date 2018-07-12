@@ -11,7 +11,6 @@ public class Test {
 		array.add("test3");
 
 		array.add("test5");
-		System.out.println(array.get(1));
 		
 		array.forEach(str ->
 		System.out.println(str));

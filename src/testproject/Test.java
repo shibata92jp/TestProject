@@ -9,7 +9,7 @@ public class Test {
 		array.add("test1");
 		array.add("test2");
 		array.add("test3");
-		array.add("test4");
+
 		array.add("test5");
 		System.out.println(array.get(1));
 		
